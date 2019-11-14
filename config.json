@@ -1,0 +1,17 @@
+{
+"train_path" : "C:/Users/Bharathraj C L/Projects/diamonds/diamonds.csv",
+"model_path" : " ",
+
+"test_data":
+{
+"carat" : 0.22,
+"cut": "Premium",
+"color": "E",
+"clarity":"SI1",
+"depth":60.5,
+"table": 61,
+"x":3.8,
+"y":3.8,
+"z":2.3
+}
+}
